@@ -1,0 +1,26 @@
+segment_sources:
+  P3725AB6F:
+    type: origin_type
+    relation: translation
+    language: en
+  PFE7755F7:
+    type: origin_type
+    relation: translation
+    language: fr
+  P44F8A794:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  ee4340e1d7c143f7bd432ec77f466d42:
+    P3725AB6F: 815058e40df344288a99a1f408009dac
+    PFE7755F7: 85b12b611edf48a29cc841dc2c3db34c
+    P44F8A794: c7e49b16dc994e2eb4126265a825b107
+  be3b3bc6349a4808aec429ccc4ddbc2c:
+    P3725AB6F: 0348fd5b06c7422a8f2102ff639f4179
+    PFE7755F7: 1dd5b05c59d646b388d85f7cddf31ec2
+    P44F8A794: be224de082eb478b9d07c40965176668
+  fd021bff3ff74870a544e553a96d85cc:
+    P3725AB6F: 92380a240fa24a6b8814a281c243c35f
+    PFE7755F7: 11d0426819a9489589f6c736f3166b12
+    P44F8A794: 3e503845147e49898d35450737c81137
